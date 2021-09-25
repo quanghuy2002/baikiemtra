@@ -1,0 +1,9 @@
+1. lệnh git init để khởi tạo một repository trong thư mục.
+2. lệnh git status để kiểm tra xem tất cả các file trong thư mục được add chưa.
+3. lệnh git add để add hết tất cả các file trong thư mục .
+4. lệnh git commit -m "Nội dung commit" để Sau mỗi lần sửa code hay thêm file mới lại thì nên tạo một commit,
+ nội dung của commit nên ngắn gọn dễ hiểu.
+5.lệnh git remote add origin link-repository  để thêm đường dẫn kho lưu trữ vào.
+6. lệnh git push origin master để đẩy project lên github.
+7.Lệnh git clone để sao chép, copy một Git Repo (kho chứa dự án Git) về máy đang local.
+8.Lệnh git pull lấy về thông tin từ remote và cập nhật vào các nhánh của local repo
